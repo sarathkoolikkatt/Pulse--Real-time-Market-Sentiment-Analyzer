@@ -1,0 +1,11 @@
+tweepy
+praw
+pandas
+numpy
+regex
+transformers
+torch
+fastapi
+uvicorn
+streamlit
+vaderSentiment
